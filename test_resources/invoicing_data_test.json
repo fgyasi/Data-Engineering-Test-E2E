@@ -1,0 +1,41 @@
+{
+  "data": {
+    "invoices": [
+      {
+        "id": "id_1",
+        "orderId": "order_1",
+        "companyId": "company_1",
+        "grossValue": "324222",
+        "vat": "0"
+      },
+      {
+        "id": "id_2",
+        "orderId": "order_2",
+        "companyId": "company_2",
+        "grossValue": "193498",
+        "vat": "19"
+      },
+      {
+        "id": "id_3",
+        "orderId": "order_3",
+        "companyId": "company_1",
+        "grossValue": "345498",
+        "vat": "21"
+      },
+      {
+        "id": "id_4",
+        "orderId": "order_4",
+        "companyId": "company_3",
+        "grossValue": "245412",
+        "vat": "34"
+      },
+      {
+        "id": "id_5",
+        "orderId": "order_5",
+        "companyId": "company_4",
+        "grossValue": "145467",
+        "vat": "0"
+      }    
+    ]
+  }
+}

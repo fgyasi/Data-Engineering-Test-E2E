@@ -1,0 +1,5 @@
+pyspark
+matplotlib
+Pandas
+numpy
+opencv-python-headless

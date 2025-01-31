@@ -1,0 +1,6 @@
+order_id;date;company_id;company_name;crate_type;contact_data;salesowners
+order_1;21.02.22;company_1;Fresh Fruits Co;Metal;"[{ ""contact_name"":""Anbv"", ""contact_surname"":""Loe"", ""city"":""City_1"", ""cp"": ""123""}]";Owner C1, Owner c2, Owner c3
+order_2;21.02.22;company_2;Veggies Inc;Wood;"[{ ""contact_name"":""Mala"", ""contact_surname"":""Utha"", ""city"":""City_2""}]";Owner d1, Owner d2, Owner c2
+order_3;03.04.22;company_1;Fresh Fruits c.o;Metal;"[{ ""contact_name"":""Con"", ""contact_surname"":""Than"", ""city"":""City_3"", ""cp"": 393}]";Owner d2
+order_4;11.05.25;company_3;Tropical Fruits Ltd;Metal;"[{ ""contact_name"":""Li"", ""contact_surname"": ""Ichen"", ""city"":""City_4""}";Owner c3, Owner e1
+order_5;20.05.25;company_4;Organic Farms;Plastic;;Owner d1, Owner f1
