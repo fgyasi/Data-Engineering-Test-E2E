@@ -6,11 +6,7 @@ To successfully build and run the the application using Docker, you need to have
 
 Windows & Mac: Download and install [Docker Desktop](https://www.docker.com/pricing/).
 
-**2. **Install Python (>=3.7)****
 
-[//]: # (**3.  Install IntelliJ IDEA**)
-
-[//]: # (   Download and install [IntelliJ IDEA Community or Ultimate]&#40;https://www.jetbrains.com/idea/download/?section=windows&#41;.)
 
 Verify the Docker installation by running 
 
