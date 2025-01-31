@@ -28,7 +28,7 @@ Once done, open the terminal to run below commands
 
 ###### 
 
-###### docker build -t pyspark_app:latest
+###### docker build -t pyspark_app:latest .
 
 ###### docker run --rm docker.io/library/pyspark_app:latest 
 
