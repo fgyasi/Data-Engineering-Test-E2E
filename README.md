@@ -14,11 +14,15 @@ Windows & Mac: Download and install [Docker Desktop](https://www.docker.com/pric
 
 Verify the Docker installation by running 
 
-###### docker -*-*version
+###### docker --version
+
+# **Run the app**
+
+Start the docker desktop
 
 Open command prompt to run the below command to clone the repo
 
-###### git clone 
+###### git clone https://github.com/fgyasi/Data-Engineering-Test-E2E.git
 
 Once done, open the terminal to run below commands
 
