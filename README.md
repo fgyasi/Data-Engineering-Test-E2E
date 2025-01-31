@@ -26,7 +26,7 @@ Open command prompt to run the below command to clone the repo
 
 Once done, open the terminal to run below commands
 
-###### 
+###### cd Data-Engineering-Test-E2E
 
 ###### docker build -t pyspark_app:latest .
 
